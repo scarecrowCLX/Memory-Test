@@ -6,7 +6,6 @@
 	<script type="text/javascript" src="jquery-1.11.1.min.js"></script>
 	<script type="text/javascript" src="mainjquery.js"></script>
 	<script type="text/javascript" src="autolist.js"></script>
-	<script type="text/javascript" src="assignment.js"></script>
 	<title>Arrow Keys choose target by jquerys</title>
 </head>
 <body>
