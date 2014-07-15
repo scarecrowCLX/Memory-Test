@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="mainjquery.js"></script>
+	<script type="text/javascript" src="autolist.js"></script>
+	<script type="text/javascript" src="assignment.js"></script>
+	<title>Arrow Keys choose target by jquerys</title>
+</head>
+<body>
+	<div id="contain">
+		<div id="explain">
+			<button id="start">Start Game</button>
+			<span class="explain_text">Memory Test：click the buttom to Start Game, then the numbers will rearrangement and be hidden after 10 seconds,use Arrow Keys to choose the numbers from 1 to 15,key down Enter to show them one by one, don't mistake the sequence.</span>
+		</div>
+		<ul id="box">
+			<li class="curr">1</li>
+			<li>2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+			<li>6</li>
+			<li>7</li>
+			<li>8</li>
+			<li>9</li>
+			<li>10</li>
+			<li>11</li>
+			<li>12</li>
+			<li>13</li>
+			<li>14</li>
+			<li>15</li>
+		</ul>
+	</div>
+</body>
+</html>
